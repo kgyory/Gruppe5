@@ -1,4 +1,4 @@
-Das ist eine testdatei
+Das ist eine testdatei- konflikt in main 
 
 Dritte Zeile Gleiche Zeile geändert
 
