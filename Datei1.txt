@@ -9,4 +9,4 @@ Dritte Zeile plus konflikt
 
 Fünfte Zeile
 
-Änderung in Branch new
+Änderung in Branch new 2
