@@ -1,4 +1,5 @@
-Das ist eine testdatei- konflikt in main 
+Das ist eine testdatei - branch konflikt
+Das ist eine testdatei- konflikt in main
 
 Dritte Zeile Gleiche Zeile geändert
 
@@ -10,3 +11,5 @@ Dritte Zeile plus konflikt
 Fünfte Zeile
 
 Änderung in Branch new 2
+
+wieder branch probieren
