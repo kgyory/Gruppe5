@@ -5,3 +5,6 @@ Dritte Zeile Gleiche Zeile geändert
 Fünfte Zeile
 
 Das ist eine weitere Zeile
+Dritte Zeile plus konflikt
+
+Fünfte Zeile
