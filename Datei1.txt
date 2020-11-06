@@ -8,3 +8,5 @@ Das ist eine weitere Zeile
 Dritte Zeile plus konflikt
 
 Fünfte Zeile
+
+Änderung in Branch new
