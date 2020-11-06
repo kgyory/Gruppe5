@@ -1,5 +1,7 @@
 Das ist eine testdatei
 
-Dritte Zeile
+Dritte Zeile Gleiche Zeile geändert
 
 Fünfte Zeile
+
+Das ist eine weitere Zeile
